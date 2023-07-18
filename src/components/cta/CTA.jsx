@@ -4,7 +4,7 @@ import './cta.css';
 function Cta() {
   return (
     <div>
-      
+      CTA
     </div>
   )
 }
