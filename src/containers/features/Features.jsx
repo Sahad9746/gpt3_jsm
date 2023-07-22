@@ -13,7 +13,7 @@ const featuresData = [
   },
   {
     title : "Message or am nothing",
-    Text :"Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address."
+    Text :"Led ask possible mistress relation eleganc  eat likewise debating. By message or am nothing amongst chiefly address."
   },
   {
     title : "Really boy law county",
