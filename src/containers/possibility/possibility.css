@@ -53,4 +53,10 @@
     .gpt3__possibility {
         flex-direction: column;
     }
+    .gpt3__possibility-image {
+        margin: 1rem 0;
+    }
+    .gpt3__features-content {
+        margin: 1.99rem 0;  
+    }
 }
