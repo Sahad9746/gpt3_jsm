@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gpt3_jsm/static/css/main.142df0e6.css",
-    "main.js": "/gpt3_jsm/static/js/main.1e20e97f.js",
+    "main.css": "/gpt3_jsm/static/css/main.b5cb0eb6.css",
+    "main.js": "/gpt3_jsm/static/js/main.a3f5ad24.js",
     "static/media/ai.png": "/gpt3_jsm/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/gpt3_jsm/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/people.png": "/gpt3_jsm/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/gpt3_jsm/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/gpt3_jsm/index.html",
-    "main.142df0e6.css.map": "/gpt3_jsm/static/css/main.142df0e6.css.map",
-    "main.1e20e97f.js.map": "/gpt3_jsm/static/js/main.1e20e97f.js.map"
+    "main.b5cb0eb6.css.map": "/gpt3_jsm/static/css/main.b5cb0eb6.css.map",
+    "main.a3f5ad24.js.map": "/gpt3_jsm/static/js/main.a3f5ad24.js.map"
   },
   "entrypoints": [
-    "static/css/main.142df0e6.css",
-    "static/js/main.1e20e97f.js"
+    "static/css/main.b5cb0eb6.css",
+    "static/js/main.a3f5ad24.js"
   ]
 }
