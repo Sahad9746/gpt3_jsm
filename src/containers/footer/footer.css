@@ -1,0 +1,103 @@
+.gpt3__footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: #fff;
+    background: var(--color-footer);
+}
+.gpt3__footer-heading {
+    width: 100%;
+    text-align: center;
+
+    margin-bottom: 3rem;
+}
+.gpt3__footer-heading h1 {
+    font-family: var(--font-family);
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 75px; 
+    letter-spacing: -0.04px;
+    text-align: center;
+}
+.gpt3__footer-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #FFF;
+    padding: 1rem;
+    text-align: center;
+    margin-bottom: 10rem;
+}
+.gpt3__footer-btn p {
+    font-family: var(--font-family);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    box-sizing: border-box;
+}
+.gpt3__footer-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-align: left;
+    width: 100%;
+}
+.gpt3__footer-links div {
+    width: 250px;
+    margin: 1rem;
+}
+.gpt3__footer-links_logo {
+    display: flex;
+    flex-direction: column;
+}
+.gpt3__footer-links_logo img {
+    width: 118px;
+    height: 30px;
+
+    margin-bottom: 1.5rem;
+}
+.gpt3__footer-links_logo p {
+    color: #FFF;
+    font-family: var(--font-family);
+    font-size: 12px;
+    font-weight: 400;
+}
+.gpt3__footer-links_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.gpt3__footer-links_div h4 {
+    color: #FFF;
+    font-family: var(--font-family);
+    font-size: 14px;
+    font-weight: 400;
+
+    margin-bottom: 2rem;
+}
+.gpt3__footer-links_div p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #fff;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
+.gpt3__foote-copyright{
+    margin-top: 2rem;
+    text-align: center;
+    width: 100%;
+}
+.gpt3__foote-copyright p {
+    font-family: var(--font-family); 
+    font-size: 12px;
+    line-height: 14px;
+    
+
+}
